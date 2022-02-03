@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Crypto-Token-Contract.sol": "CryToken"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Crypto-Token-Contract.sol": {
+			"keccak256": "0xdf6775a28ed130d981081fb55b0bda9f7492a62b1de8566c55937b189e9b5d86",
+			"urls": [
+				"bzz-raw://f5def56b8a56d25c61dd4a79b78a0541ceefca7f7eca7d9fd801be067614bf12",
+				"dweb:/ipfs/QmR47SVAKNbhWkhcpFiJv4ZmfZfKPsyYCAjNJyQbYJykKh"
+			]
+		}
+	},
+	"version": 1
+}

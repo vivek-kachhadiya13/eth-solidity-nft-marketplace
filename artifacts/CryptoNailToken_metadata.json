@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Crypto-Token-Contract.sol": "CryptoNailToken"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Crypto-Token-Contract.sol": {
+			"keccak256": "0xf028726467501adcda22968446de63d8a34df4c4e3a480375352ccb7c92e0329",
+			"urls": [
+				"bzz-raw://9bd7d75f3ce4fee1bb7ff9e67581d2219b244a8a9a76a2eb9c99c7221b48797f",
+				"dweb:/ipfs/QmVajkqg7LHLAdfMkNEd78s1rKKfchNvQ21Umni1EJtR63"
+			]
+		}
+	},
+	"version": 1
+}
